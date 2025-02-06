@@ -10,7 +10,7 @@ A simple and interactive quiz application built using HTML, CSS, and JavaScript.
 - Option to restart the quiz after completion.
 
 ## Live Demo
-You can access the live demo of the quiz app [here](https://sheikhjaveed.github.io/Quiz-app-Javascript/).
+You can access the live demo of the quiz app [Quiz-app](https://sheikhjaveed.github.io/Quiz-app-Javascript/).
 
 ## How to Use
 1. Click the **Start Quiz** button to begin the quiz.
