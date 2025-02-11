@@ -16,7 +16,8 @@ You can access the live demo of the quiz app [Quiz-app](https://sheikhjaveed.git
 1. Click the **Start Quiz** button to begin the quiz.
 2. Select one option for each question.
 3. After answering all questions, your score will be displayed.
-4. Click **Restart Quiz** to play again.
+4. The wrong answers will also be displayed with score.
+5. Click **Restart Quiz** to play again.
 
 ## Technologies Used
 - HTML
